@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.header {
+  font-size: 32px;
+  color: #f8fafc;
+}
+@media (max-width: 576px) {
+  .header {
+    font-size: 20px;
+  }
+}
